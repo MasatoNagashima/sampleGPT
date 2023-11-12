@@ -2,6 +2,7 @@
 OpenAI が SDK を新たに[アップグレード](https://github.com/openai/openai-python/discussions/742)
 しネットに上がっていたコードが一部機能しなくなっていたので、 GitHub にコードをまとめました。
 以下の手順よりファインチューニングとテストを進めることができます。
+https://platform.openai.com/docs/overview
 
 1.  openAI の SDK をインストールする
 ```
