@@ -17,7 +17,6 @@ cd sampleGPT
 ```
 sampleGPT $ python -m venv .venv
 sampleGPT $ source .venv/bin/activate
-
 ```
 3.  openAI の SDK をインストールする
 ```
@@ -39,3 +38,4 @@ OPENAI_API_KEY=hoge # OPENAI の公式サイトから取得
 
 * [文章生成](https://github.com/MasatoNagashima/sampleGPT/tree/main/src/text-generation)
 * [ファインチューニング](https://github.com/MasatoNagashima/sampleGPT/tree/main/src/fine-tuning)
+* [Function Calling](https://github.com/MasatoNagashima/sampleGPT/tree/main/src/function-calling)
